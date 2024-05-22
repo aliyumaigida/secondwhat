@@ -1,0 +1,64 @@
+.vote{
+    width: 100%;
+    
+    height: 250px;
+    position: relative;
+    background-color: #00a884;
+}
+
+.second{
+    width: 80%;
+    height: 80rem;
+    margin-top: -150px;
+    position: sticky
+    
+    
+}
+
+.first{
+    margin-left: 55px;
+}
+.borde{
+    border: 1px solid black;
+    width: 90%;
+    height: 120px;
+    margin-top: 30px ;
+    border-radius: 10px;
+    
+
+}
+
+.box{
+    width: 220px;
+    background-color: green;
+    border-radius: 20px;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+    justify-content: space-between;
+}
+
+.space{
+    justify-content:space-around;
+}
+
+.logo{
+    margin-left: 42px;
+}
+
+.tap{
+    margin-left: -20px;
+}
+
+.last{
+    margin-left: 320px;
+}
+
+.para{
+    text-align: center;
+}
+
+.help{
+    text-decoration: none;
+    color:green;
+}
